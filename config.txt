@@ -1,0 +1,7 @@
+serverSide.AirportServerRun	<host>	<port>
+serverSide.PlaneServerRun	<host>	<port>
+serverSide.DestinationServerRun	<host>	<port>
+serverSide.LoggerServerRun	<host>	<port>
+clientSide.PilotClientRun	<host>	
+clientSide.HostessClientRun	<host>	
+clientSide.PassengersClientRun	<host>
